@@ -1,12 +1,10 @@
 # Employee_ProblemStatement.SQL
 Using Employee Data, I have performed some tasks.
-Create a mysql local database: You will have to create a local mysql database you
-machine,
+Create a mysql local database: 
 a. Create a database
 b. Create tables with data types
 c. Insert the data into table
-Dataset has been shared as individual csv files along with table_name, column_name
-and datatype.
+
 Commit the sql file.
 1 Display details of the employees whose FIRST_NAME contains six alphabets
 and ends with ‘h’
